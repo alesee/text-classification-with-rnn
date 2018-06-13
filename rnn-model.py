@@ -1,9 +1,4 @@
 
-# coding: utf-8
-
-# In[ ]:
-
-
 class RNNModel(nn.Module):
     """
     Neural Network Module with an embedding layer, a recurent module and an output linear layer
